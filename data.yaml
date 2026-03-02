@@ -1,0 +1,6 @@
+train: ppe_yolo/images/train
+val: ppe_yolo/images/val
+
+names:
+  0: helmet
+  1: no_helmet

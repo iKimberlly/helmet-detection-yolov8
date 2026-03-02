@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# YOLO
+runs/
+
+# Dataset
+data/raw/
+ppe_yolo/
+
+# VSCode
+.vscode/
+
+# Sistema
+.DS_Store
