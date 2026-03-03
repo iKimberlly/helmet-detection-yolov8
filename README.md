@@ -117,7 +117,7 @@ A análise da distribuição das bounding boxes demonstra concentração predomi
 
 ### Matriz de Confusão
 
-![Matriz de Confusão](resultado/metrica_confusao.jpg)
+![Matriz de Confusão](resultados/metrica confusao.jpg)
 
 A matriz de confusão permite avaliar a capacidade do modelo em distinguir corretamente entre trabalhadores com e sem capacete.
 
@@ -127,10 +127,10 @@ A matriz de confusão permite avaliar a capacidade do modelo em distinguir corre
 
 ### Exemplos em Imagens
 
-![Resultado 1](results/result_1.jpg)
-![Resultado 2](results/result_2.jpg)
-![Resultado 3](results/result_3.jpg)
-![Resultado 4](results/result_4.jpg)
+![Resultado 1](resultado/result_1.jpg)
+![Resultado 2](resultados/result_2.jpg)
+![Resultado 3](resultados/result_3.jpg)
+![Resultado 4](resultados/result_4.jpg)
 
 Os resultados demonstram boa capacidade de localização e classificação em diferentes cenários industriais, incluindo múltiplos trabalhadores, oclusões parciais e variações de iluminação.
 
