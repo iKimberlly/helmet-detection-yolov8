@@ -101,7 +101,7 @@ python src/06_evaluate.py
 
 ### Distribuição das Classes
 
-![Distribuição das Classes](resultado/distribuicao_classes.jpg)
+![Distribuição das Classes](resultados/Classificacao.jpg)
 
 Observa-se um desbalanceamento entre as classes, com maior número de instâncias da classe `helmet` em comparação à classe `no_helmet`. Esse fator pode influenciar o desempenho do modelo, especialmente na detecção de não conformidades.
 
@@ -117,7 +117,7 @@ A análise da distribuição das bounding boxes demonstra concentração predomi
 
 ### Matriz de Confusão
 
-![Matriz de Confusão](resultados/metrica confusao.jpg)
+![Matriz de Confusão](resultados/metricaconfusaoF.jpg)
 
 A matriz de confusão permite avaliar a capacidade do modelo em distinguir corretamente entre trabalhadores com e sem capacete.
 
@@ -127,10 +127,10 @@ A matriz de confusão permite avaliar a capacidade do modelo em distinguir corre
 
 ### Exemplos em Imagens
 
-![Resultado 1](resultado/result_1.jpg)
-![Resultado 2](resultados/result_2.jpg)
-![Resultado 3](resultados/result_3.jpg)
-![Resultado 4](resultados/result_4.jpg)
+![Resultado 1](resultados/result2.jpg)
+![Resultado 2](resultados/result3.jpg)
+![Resultado 3](resultados/result4.jpg)
+![Resultado 4](resultados/result5.jpg)
 
 Os resultados demonstram boa capacidade de localização e classificação em diferentes cenários industriais, incluindo múltiplos trabalhadores, oclusões parciais e variações de iluminação.
 
